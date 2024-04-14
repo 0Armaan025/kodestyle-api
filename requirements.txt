@@ -1,0 +1,6 @@
+Flask
+Requests
+BS4
+firebase_admin
+flask_cors
+Werkzeug==2.2.2
