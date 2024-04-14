@@ -240,8 +240,3 @@ def delete_api_key(username, api_key):
     return jsonify({'error': 'An unexpected error occurred'}), 500
 
 
-if __name__ == '__main__':
-    
-    app.run(debug=True)
-
-
